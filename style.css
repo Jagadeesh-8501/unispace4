@@ -10191,6 +10191,8 @@ ul.style-default li:last-child, ol.style-default li:last-child {
 .footer-list-item {
     line-height: 1;
     padding-top: 11px;
+	    text-align:left;
+
     padding-bottom: 14px
 }
 .footer-list-item:first-child {
